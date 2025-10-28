@@ -1,5 +1,5 @@
 # Whisper-tools
-High-level python library for stream and static transcription with whisper
+High-level python library for stream and static transcription based on faster-whisper
 
 # Getting started
 

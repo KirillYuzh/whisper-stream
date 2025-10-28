@@ -13,7 +13,7 @@ import os
 
 
 class WhisperAPI:
-    def __init__(self, api_key: str, base_url: str, model: str = "whisper-1"):
+    def __init__(self, api_key: str, base_url: str, model: str = "whisper-large"):
         self.api_key = api_key
         self.base_url = base_url.rstrip('/')
         self.model = model
