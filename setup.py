@@ -8,7 +8,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setup(
     name="whisper-stream",
-    version="0.1.3",
+    version="0.1.12",
     author="Kirill Yuzhakov",
     author_email="luxlapari@gmail.com",
     description="Real-time speech recognition with Whisper",
